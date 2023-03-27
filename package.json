@@ -1,0 +1,11 @@
+{
+  "name": "@qpokychuk/ripple",
+  "version": "1.5.6",
+  "description": "add wave ripple effect to element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Yuferov <serega990112@mail.ru>",
+  "license": "ISC"
+}
